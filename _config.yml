@@ -22,7 +22,7 @@ defaults:
       layout: category
 
 name: Watch Out, IIT Roorkee
-url: http://watchout.iitr.ac.in
+url: http://fake-mdgspace.github.io
 gems: [jekyll-paginate]
 description: The official news magazine of IIT Roorkee.
 paginate: 10

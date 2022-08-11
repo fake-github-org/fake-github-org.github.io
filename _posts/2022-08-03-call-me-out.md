@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Call Me Out"
-author: "Aastha Khaitan, Khyati Joshi, Vinayak Rai, Vansh Mehra, Pritika Mishra"
 category: editorial
 tags: [wona, column]
 image: call-me-out-cover.gif

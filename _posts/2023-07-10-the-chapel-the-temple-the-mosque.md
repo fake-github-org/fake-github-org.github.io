@@ -10,7 +10,7 @@ excerpt: "I am writing because this song changed me... and also because I *tried
 
 > *Where do snails go during the day? They're probably somewhere playing video games*
 
-*[The Chapel](https://genius.com/Madilyn-mei-the-chapel-lyrics)* is a 2022 song by Madilyn Mei, with her signature combo of whimsical melodies paired with subtly melancholy lyrics. And truly, the cover art looks like something from a classic children’s book about creatures in the forest going on an adventure to learn a lesson about friendship.
+*[The Chapel](https://genius.com/Madilyn-mei-the-chapel-lyrics){: style="text-decoration: underline"}* is a 2022 song by Madilyn Mei, with her signature combo of whimsical melodies paired with subtly melancholy lyrics. And truly, the cover art looks like something from a classic children’s book about creatures in the forest going on an adventure to learn a lesson about friendship.
 
 ![The Chapel cover art](/images/posts/the-chapel-the-temple-the-mosque/song-art.jpg){: style="width:80%;height:auto;"}
 
@@ -77,4 +77,4 @@ Oh I said this was a review, wasn’t it? Here you go, a sincere review of *The 
 1. Yeah I know it’s an LLM. Yeah I know that what it’s doing is just choosing which word goes next. My best guess for why it sucked is because its dataset didn’t contain that much religious trauma because these models are designed to generate advertiser-friendly/sanitized content. No I’m not naming the model.
 2. I was never really that *into* Judaism or Christianity (relatively speaking). But I did read the Old Testament and a paraphrased version of the New Testament. **Pro Tip:** If you’re looking to get into Star Wars, skip ”*Episode 1: The Phantom Menace*”. If you’re looking to read the Bible, skip “*Genesis*”. Apparently the first ones are the most boring ones.
 3. I’ve experienced this with several things in my life: religion, patriotism, mental health, GSRM, class, etc. With the world as systematically fucked as it is, how can I accept any speck of happiness that is thrown my way?!
-4. Adapted from [this post by Tumblr user @swordsman](https://www.tumblr.com/swordsmans/717922430043160576?source=share)
+4. Adapted from [this post by Tumblr user @swordsman](https://www.tumblr.com/swordsmans/717922430043160576?source=share){: style="text-decoration: underline"}

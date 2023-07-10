@@ -1,20 +1,18 @@
 ---
 layout: post
-title: "The Chapel"
+title: "The Chapel, The Temple, The Mosque"
 category: editorial
 tags: [wona, column]
 author: "Aditya Rajput"
-image: the-chapel/cover.jpg
+image: the-chapel-the-temple-the-mosque/cover.jpg
 excerpt: "I am writing because this song changed me... and also because I *tried* to get an AI to write this article, but the AI does not have religious trauma, so it sucked at writing this."
 ---
-
-# The Chapel
 
 > *Where do snails go during the day? They're probably somewhere playing video games*
 
 *[The Chapel](https://genius.com/Madilyn-mei-the-chapel-lyrics)* is a 2022 song by Madilyn Mei, with her signature combo of whimsical melodies paired with subtly melancholy lyrics. And truly, the cover art looks like something from a classic children’s book about creatures in the forest going on an adventure to learn a lesson about friendship.
 
-![The Chapel cover art](/images/posts/the-chapel/song-art.jpg){: style="width:80%;height:auto;"}
+![The Chapel cover art](/images/posts/the-chapel-the-temple-the-mosque/song-art.jpg){: style="width:80%;height:auto;"}
 
 Now, since “in the Anthropocene, there are no disinterested observers; there are only participants”, I will not attempt this review in a clinical manner. I’m not being paid to write, I am writing because this song changed me…
 
@@ -24,6 +22,8 @@ I think many of us in the Age of Algorithms can relate to happening upon a life-
 
 For other media, like *The Chapel*, it’s more explicit: I have gotten better words to tell my story. Because despite all the books I’ve read, I’m still a fuckin’ idiot who doesn’t know how to express his fears and trauma except by forcing the same trauma onto a character in his grimdark YA fanfics.
 
+<br/>
+
 > *Leading me along, The children sing a song.<br />And I'd like to turn around, But I know I’m not that strong.*
 
 Back in the Long Ago, I was a choir boy. Well, I was the nearest equivalent of a choir boy in my family’s hybrid Hindu-Islamic tradition. I memorized the hymns and prayers and chants. I learned what they meant and compared the theologies of different sects that some of my extended family were part of. I was really into religious world history and traditions and idols and the *absence* of idols.<sup>2</sup>
@@ -32,13 +32,19 @@ I’d like to say I was drawn in by poignant songs and essays that talked about 
 
 Anyway, then I got into two car accidents, losing months of my life, and my mom said it was because I didn’t pray hard enough.
 
+<br />
+
 > *They warn of snakes in search of prey.<br />The stories scare me so I stay, At the chapel where the mantis pray.<br />And every day, They lead me along.*
 
 After the two accidents and my subsequent diagnosis of being monstrous, me and my dad spent that summer doing a whole bunch of wacko tasks to get rid of whatever was making me monstrous. Now that isn’t quite enough to call it religious trauma. I didn’t know it at the time, but there was worse coming.
 
 My cause of devotion gradually shifted from interest to fear. Which was good enough for *mi familia*. We carried on for sometime like that: me dedicating ~30% my brain space and processing power to retaining info about religious things they expected me to do, them carefully monitoring my behaviour to ensure that my spirits were alright.
 
+<br />
+
 > *I'm missing a house, That I've never called home.<br />I'm missing a time that I've nevеr known.<br />I remember a tree, had a wholе leaf of my own.*
+
+<br />
 
 Knowledge is lonely.
 
@@ -48,11 +54,15 @@ In the small hours of the night, looking out into a skyline of neon and glass an
 
 I miss the community, I miss belonging. Maybe it’s just the rose-tinted glasses of retrospection, maybe it’s the evolutionary desire to have a tribe.
 
+<br />
+
 > *Now, it remains a dream,<br />A distant memory that itches my brain*
 
 As someone who has experienced growth post-religion, and even accepted that he *is* a lil’ fucked in the head, I thought I was over this shit. I had a method of dealing with what my family said. Sticks and stone and whatnot. But Chekov wasn’t done with me yet!
 
 People who know me will know that my family had an honest-to-God exorcism performed on me. I was told eight days before summer break started; it was the first task after I landed. I won’t lie, this cut me off at the knee, brought down all defences and decimated any pretences of indifference. As utterly fascinating to experience 48 hours of fusion Hindu-Christian rituals, it was as if I’d regressed to eleven-year-old me, drowning in my parents’ immense and unshakable faith, while I had none of my own.
+
+<br />
 
 > *And I'd like to run away, But to leave would be a sin*
 

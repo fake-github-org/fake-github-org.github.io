@@ -44,8 +44,6 @@ My cause of devotion gradually shifted from interest to fear. Which was good eno
 
 > *I'm missing a house, That I've never called home.<br />I'm missing a time that I've nevеr known.<br />I remember a tree, had a wholе leaf of my own.*
 
-<br />
-
 Knowledge is lonely.
 
 Taking the red pill makes it so you have a permanent background level of anxiety/fear/despair no matter what you’re doing.<sup>3</sup> Or maybe I’m just a general overthinker. But at the very least, people who believe in God(s) go to sleep every night feeling safe: thinking that things will be made right in the end; that Justice exists
@@ -75,6 +73,6 @@ Oh I said this was a review, wasn’t it? Here you go, a sincere review of *The 
 ### Footnotes
 
 1. Yeah I know it’s an LLM. Yeah I know that what it’s doing is just choosing which word goes next. My best guess for why it sucked is because its dataset didn’t contain that much religious trauma because these models are designed to generate advertiser-friendly/sanitized content. No I’m not naming the model.
-2. I was never really that *into* Judaism or Christianity (relatively speaking). But I did read the Old Testament and a paraphrased version of the New Testament. **Pro Tip:** If you’re looking to get into Star Wars, skip ”*Episode 1: The Phantom Menace*”. If you’re looking to read the Bible, skip “*Genesis*”. Apparently the first ones are the most boring ones.
+2. I was never really that *into* Judaism or Christianity (relatively speaking). But I did read the Old Testament and a paraphrased version of the New Testament. **Pro Tip:** If you’re looking to get into Star Wars, skip “*Episode 1: The Phantom Menace*”. If you’re looking to read the Bible, skip “*Genesis*”. Apparently the first ones are the most boring ones.
 3. I’ve experienced this with several things in my life: religion, patriotism, mental health, GSRM, class, etc. With the world as systematically fucked as it is, how can I accept any speck of happiness that is thrown my way?!
 4. Adapted from [this post by Tumblr user @swordsman](https://www.tumblr.com/swordsmans/717922430043160576?source=share){: style="text-decoration: underline"}

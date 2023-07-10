@@ -70,7 +70,9 @@ According to Madilyn Mei, the target audience for this song is ‘entomologists 
 
 Oh I said this was a review, wasn’t it? Here you go, a sincere review of *The Chapel*, by me, a dumbass: **ouughgh the melodies! there are so MANY of them!!!! and the lyrics,,,,,,,,,, they are made of words.. impeccable.<sup>4</sup>**
 
-**Footnotes:**
+<br/>
+
+### Footnotes
 
 1. Yeah I know it’s an LLM. Yeah I know that what it’s doing is just choosing which word goes next. My best guess for why it sucked is because its dataset didn’t contain that much religious trauma because these models are designed to generate advertiser-friendly/sanitized content. No I’m not naming the model.
 2. I was never really that *into* Judaism or Christianity (relatively speaking). But I did read the Old Testament and a paraphrased version of the New Testament. **Pro Tip:** If you’re looking to get into Star Wars, skip ”*Episode 1: The Phantom Menace*”. If you’re looking to read the Bible, skip “*Genesis*”. Apparently the first ones are the most boring ones.
